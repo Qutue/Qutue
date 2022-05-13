@@ -2,7 +2,6 @@
 
 
 [![profile-views](https://komarev.com/ghpvc/?username=your-github-Qutue)](https://github.com/qutue)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailtohanjuntao14@gmail.com)](mailto://hanjuntao14@gmail.com)
 
 **Languages and Tools:**
 
